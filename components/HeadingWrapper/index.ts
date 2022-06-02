@@ -1,0 +1,1 @@
+export { HeadingWrapper } from "./HeadingWrapper";
